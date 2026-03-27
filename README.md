@@ -11,7 +11,7 @@
 
       
 
-     <img width="30%" src="https://github.com/carladfb/marcos/blob/main/Assets/telaInicial.png"/>
+     <img width="30%" src="https://github.com/Domiuau/whats-next/blob/main/Assets/telaInicial.png"/>
 
 - #### Na tela seguinte, informações adicionais são exibidas de forma dinâmica, como:
 
@@ -23,8 +23,8 @@
    - Quantos dias do ano já passaram
 
       <div style="display-flex">
-         <img width="30%" src="https://github.com/carladfb/marcos/blob/main/Assets/telaDados.png"/>
-         <img width="30%" src="https://github.com/carladfb/marcos/blob/main/Assets/telaTodasAsDatas.png"/>
+         <img width="30%" src="https://github.com/Domiuau/whats-next/blob/main/Assets/telaDados.png"/>
+         <img width="30%" src="https://github.com/Domiuau/whats-next/blob/main/Assets/telaTodasAsDatas.png"/>
       </div>
  
    
@@ -32,14 +32,14 @@
 - #### Ao clicar em um feriado, serão exibidas informações sobre ele:
 
 
-     <img width="30%" src="https://github.com/carladfb/marcos/blob/main/Assets/sheetInformacoesDia.png"/>
+     <img width="30%" src="https://github.com/Domiuau/whats-next/blob/main/Assets/sheetInformacoesDia.png"/>
 
 Observação: cada TIPO de feriado é representado por uma cor e emoji diferente.
 
 - #### Por padrão, o aplicativo exibi o país atual em que o usuário está localizado, porém é possível escolher outros países
 
 
-     <img width="30%" src="https://github.com/carladfb/marcos/blob/main/Assets/sheetBuscarPais.png"/>
+     <img width="30%" src="https://github.com/Domiuau/whats-next/blob/main/Assets/sheetBuscarPais.png"/>
   
 # Tecnologias utilizadas
 - Swift
@@ -57,7 +57,7 @@ Observação: cada TIPO de feriado é representado por uma cor e emoji diferente
 
 - O aplicativo está disponível no Test Flight, acessando o link: https://testflight.apple.com/join/hmtMe1da
 
-  <img width="40%" src="https://github.com/carladfb/marcos/blob/main/Assets/qrcode.jpeg"/>
+  <img width="40%" src="https://github.com/Domiuau/whats-next/blob/main/Assets/qrcode.jpeg"/>
   
 # Requisitos
 
