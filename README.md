@@ -8,7 +8,6 @@
 # Resumo do aplicativo
 
 - #### Na tela inicial do aplicativo, é exibida a data atual, se hoje é um dia especial ou não, e um evento aleatório que aconteceu no passado no determinado dia do mês.
-
       
 
      <img width="30%" src="https://github.com/Domiuau/whats-next/blob/main/Assets/telaInicial.png"/>
